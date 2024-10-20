@@ -38,7 +38,7 @@ You can find the study using the larger complex networks [here](https://github.c
 ├── Types12BifDiagFullVarygI2E/            # Generate dynamics as varying the I->E strength.
 ├── Types12BifDiagFullVarygI2I/            # Generate dynamics as varying the self inhibition strength.
 ├── TypesQIF11BifDiagFullVaryPhiEPhiI/     # Generate dynamics as varying both intrinsic frequencies.  
-├── Viriyopase2018.pdf                    # The article.   
+├── Viriyopase2018.pdf                     # The article.   
 ├── README.md  
 └── LICENSE
 ```
