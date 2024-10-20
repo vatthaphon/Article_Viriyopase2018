@@ -15,7 +15,7 @@ The goal of this study is to theoretically investigate how ING and PING interact
 ## Introduction<a name="Introduction"/>
 <p align="justify">This repository provides the implementation of the methods and algorithms described in the paper "Analyzing the competition of gamma rhythms with delayed pulse-coupled oscillators in phase representation". 
 The main goal of this study is to theoretically investigate how ING and PING interact in a simple network of two oscillators. We generally find that we observe the same mechanisms of coperation and competition of gamma rhythms
-as we found in [larger complex networks](https://pages.github.com/](https://github.com/vatthaphon/Article_Viriyopase2016) in the simple network.</p>This site was built using [GitHub Pages](https://pages.github.com/).
+as we found in [larger complex networks](https://github.com/vatthaphon/Article_Viriyopase2016) in the simple network.</p>
 
 ## Installation<a name="Installation"/>
 - Matlab 2015.
