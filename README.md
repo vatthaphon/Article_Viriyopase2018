@@ -27,17 +27,17 @@ You can find the study using the larger complex networks [here](https://github.c
 
 ## File Structure<a name="FileStructure"/>
 ```plaintext
-├── Types11BifDiagFullVaryPhiE            # Generate dynamics as varying the intrinsic frequency of E oscillator.
-├── Types11BifDiagFullVaryPhiEPhiI        # Generate dynamics as varying both intrinsic frequencies.  
-├── Types11BifDiagFullVaryPhiI            # Generate dynamics as varying the intrinsic frequency of I oscillator.
-├── Types11BifDiagFullVarygI2E            # Generate dynamics as varying the I->E strength.
-├── Types11BifDiagFullVarygI2I            # Generate dynamics as varying the self inhibition strength.
-├── Types12BifDiagFullVaryPhiE            # Generate dynamics as varying the intrinsic frequency of E oscillator.
-├── Types12BifDiagFullVaryPhiEPhiI        # Generate dynamics as varying both intrinsic frequencies.  
-├── Types12BifDiagFullVaryPhiI            # Generate dynamics as varying the intrinsic frequency of I oscillator.
-├── Types12BifDiagFullVarygI2E            # Generate dynamics as varying the I->E strength.
-├── Types12BifDiagFullVarygI2I            # Generate dynamics as varying the self inhibition strength.
-├── TypesQIF11BifDiagFullVaryPhiEPhiI     # Generate dynamics as varying both intrinsic frequencies.  
+├── Types11BifDiagFullVaryPhiE/            # Generate dynamics as varying the intrinsic frequency of E oscillator.
+├── Types11BifDiagFullVaryPhiEPhiI/        # Generate dynamics as varying both intrinsic frequencies.  
+├── Types11BifDiagFullVaryPhiI/            # Generate dynamics as varying the intrinsic frequency of I oscillator.
+├── Types11BifDiagFullVarygI2E/            # Generate dynamics as varying the I->E strength.
+├── Types11BifDiagFullVarygI2I/            # Generate dynamics as varying the self inhibition strength.
+├── Types12BifDiagFullVaryPhiE/            # Generate dynamics as varying the intrinsic frequency of E oscillator.
+├── Types12BifDiagFullVaryPhiEPhiI/        # Generate dynamics as varying both intrinsic frequencies.  
+├── Types12BifDiagFullVaryPhiI/            # Generate dynamics as varying the intrinsic frequency of I oscillator.
+├── Types12BifDiagFullVarygI2E/            # Generate dynamics as varying the I->E strength.
+├── Types12BifDiagFullVarygI2I/            # Generate dynamics as varying the self inhibition strength.
+├── TypesQIF11BifDiagFullVaryPhiEPhiI/     # Generate dynamics as varying both intrinsic frequencies.  
 ├── Viriyopase2018.pdf                    # The article.   
 ├── README.md  
 └── LICENSE
